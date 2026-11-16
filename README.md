@@ -1,5 +1,7 @@
 ## CONGRESSIONAL APP 2026 SUBMISSION
 
+https://comp-fvhs.vercel.app/
+
 tracking community service hours has always been the greatest pain. in fact, I just fell for a fake captcha which led me to install malware, because our school's Baron News website was compromised. the official FVHS spreadsheet for tracking hours for the 160-hour community service cord isn't on the official FVHS website; it was linked in a Baron News article that, almost got me a virus. and that "spreadsheet" is rather a table function on a google doc. logs aren't organized; you spend way too long scrolling through your photo album and looking through photo metadata for dates and locations, and try to remember the events you didn't take pictures of, just to end up with a jumbled mess on a doc.
 
 ## not another productivity app
@@ -28,7 +30,7 @@ note: some might not have been implemented yet; we didn't get around to some bef
 7. club tracking
   - similar to volunteer hours, club leaders may find tracking membership and participation equally tedious and chaotic. comp could create one event, and every comp member who claims that event is automatically tracked, able to be managed by the club leader. one feature comp already incorporates is that accounts can be associated with a school. clicking on that school's tab shows all students registered into comp at that school; a similar feature for clubs could easily be added. this feature could also be used to track participation from member to member, and to create a member leaderboard within clubs, and a club leaderboard between clubs. (ranked on volunteer hours, member count, etc.) this leaderboard is already a feature within comp.
 
-##  LIVE DEPLOYMENT AT: https://winterrmelonn.github.io/comp/
+##  LIVE DEPLOYMENT AT: [https://winterrmelonn.github.io/comp/](https://comp-fvhs.vercel.app/)
 
 ## Run
 
